@@ -9,13 +9,13 @@ A console-based Contact Book application built in C++ using OOP principles. It s
 
 ## Features
 
-- **Add Contacts** — Store first name, last name, phone number, email, and full address
-- **Search** — Find contacts by name, phone number, address, or any single keyword
-- **Sort** — Print all contacts sorted by first name or last name
-- **Merge Duplicates** — Detect and merge duplicate contacts
-- **Groups** — Create named groups, add/remove contacts, and search within groups
-- **File I/O** — Save contacts to a file and load them back across sessions
-- **Contact Count** — Display total number of contacts in the book
+- **Add Contacts** : Store first name, last name, phone number, email, and full address
+- **Search** : Find contacts by name, phone number, address, or any single keyword
+- **Sort** : Print all contacts sorted by first name or last name
+- **Merge Duplicates** : Detect and merge duplicate contacts
+- **Groups** : Create named groups, add/remove contacts, and search within groups
+- **File I/O** : Save contacts to a file and load them back across sessions
+- **Contact Count** : Display total number of contacts in the book
 
 ---
 
@@ -39,7 +39,7 @@ CONTACT_BOOK_PROJECT_23F-6014/
 
 ## How to Run
 
-### Option 1 — Visual Studio (Windows, Recommended)
+### Option 1  Visual Studio (Windows, Recommended)
 
 1. Open `Project7.sln` in **Visual Studio 2019 or later**
 2. Set the build configuration to **Debug** or **Release**
@@ -47,7 +47,7 @@ CONTACT_BOOK_PROJECT_23F-6014/
 
 ---
 
-### Option 2 — g++ (Command Line, Windows/Linux/macOS)
+### Option 2  g++ (Command Line, Windows/Linux/macOS)
 
 Make sure you have `g++` installed (comes with MinGW on Windows, or GCC on Linux/macOS).
 
